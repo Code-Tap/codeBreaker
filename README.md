@@ -9,7 +9,7 @@ I look forward to your solution to this problem :)
 
 please ensue to install the dependencies by running: 
 
-`'`bash
+```bash
 pip3 install -r requirements.txt
 ```
 
